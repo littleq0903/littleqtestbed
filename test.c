@@ -15,6 +15,12 @@ int func3(){
     return 3;
 
 }
+
+int func4(){
+    return 4;
+}
+
+
 int main(){
 
     return 0;
