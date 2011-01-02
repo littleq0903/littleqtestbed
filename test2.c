@@ -12,6 +12,12 @@ int func2(){
 }
 
 
+int func3(){
+
+	return 3;
+
+}
+
 int main(){
 
     return 0;
